@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/26146698/README.md)
+[README.md](https://github.com/user-attachments/files/26146716/README.md)
 # Muscle-Mechanics-
 ## 📌 This Project is a simple gym management system written in Python
 ## 🧩 Features of the project
@@ -22,7 +22,7 @@ GroupB_T4_Code
 └── member.py     # Defines member information and functions
 
 ## ✍🏻 Authors 
-    Name            Student ID
+  Name            Student ID
 * Seng Chinging - (IDTB110013)
 * Van Sokha     - (IDTB110069)
 * Veiy Soklinna - (IDTB110005)
