@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/26146723/README.md)
+[README.md](https://github.com/user-attachments/files/26147086/README.md)
 # Muscle-Mechanics
 ## 📌 This Project is a simple gym management system written in Python
 ## 🧩 Features of the project
@@ -20,6 +20,7 @@ GroupB_T4_Code
 ├── main.py       # Main program to run the system
 ├── gym_system.py # Contains main logic of the gym system
 └── member.py     # Defines member information and functions
+```
 
 ## ✍🏻 Authors 
   Name            Student ID
