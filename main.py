@@ -31,7 +31,7 @@ def  menu(system):
         elif c == "7":
             system.delete_member()
         elif c == "8":
-            print("Thank you for using Muscle Mechanics.")
+            print("Thank you for using Gym Membership System.")
             break
         else:
             print("Invalid option! Please try again.")
@@ -39,3 +39,4 @@ def  menu(system):
 if __name__ == "__main__":
     gym = GymSystem()
     menu(gym)
+    
